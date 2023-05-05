@@ -1,0 +1,13 @@
+[package]
+name = "option-utils"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "A collection of utilities for working with Rust's Option type"
+repository = "https://github.com/jsoverson/option-utils"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+
+[dev-dependencies]
+anyhow = { version = "1.0" }
